@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-family: sans-serifh2;
 }
+body{
+    background: darkorchid;
+    color: aliceblue;
+}
